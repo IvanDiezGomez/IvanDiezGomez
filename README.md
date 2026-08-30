@@ -1,6 +1,6 @@
 # 👨‍💻 Ivan Diez Gomez
 
-### 💻 Programador | Desarrollo Web | Backend | Bases de Datos
+### 💻 Programador | Desarrollo Web |Frontend y Backend | Bases de Datos
 
 ¡Hola! Soy **Ivan Diez Gomez**, programador y estudiante universitario, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
@@ -121,13 +121,8 @@ Mi objetivo es seguir creciendo como **desarrollador de software**, adquirir exp
 
 Me interesa especialmente desarrollarme en el área de **Frontend y desarrollo de aplicaciones**, sin dejar de lado el desarrollo web y las bases de datos.
 
----
 
-## 📊 GitHub
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDiezGomez\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDiezGomez\&layout=compact\&theme=tokyonight)
 
 ---
 
