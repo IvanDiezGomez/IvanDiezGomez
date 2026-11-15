@@ -102,6 +102,7 @@ Estoy profundizando mis conocimientos en:
 * 🔹 Desarrollo Backend.
 * 🔹 Node.js y Express.
 * 🔹 APIs REST.
+* 🔹 Prisma
 * 🔹 MySQL y diseño de bases de datos.
 * 🔹 Java.
 * 🔹 JavaScript.
