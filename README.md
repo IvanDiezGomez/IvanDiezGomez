@@ -95,9 +95,7 @@ Desarrollo de aplicaciones orientadas a la gestión de:
 
 ---
 
-## 📚 Actualmente aprendiendo
-
-Estoy profundizando mis conocimientos en:
+## CONOCIMIENTOS EN:
 
 * 🔹 Desarrollo Backend.
 * 🔹 Node.js y Express.
